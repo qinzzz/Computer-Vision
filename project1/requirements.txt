@@ -1,0 +1,6 @@
+opencv_python==3.3.0.9
+Image==1.5.27
+PyQt4==4.11.4
+PyQt5==5.13.2
+PySide==1.2.4
+PySide2==5.13.2
