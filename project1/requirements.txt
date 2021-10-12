@@ -1,4 +1,4 @@
-opencv_python==3.3.0.9
+opencv_python==4.2.0.32
 Image==1.5.27
 PyQt4==4.11.4
 PyQt5==5.13.2
